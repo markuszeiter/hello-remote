@@ -1,2 +1,3 @@
 import sys
-print("Hellov {}!".format(sys.argv[1]))
+name = sys.argv[1]
+print("Hellov {}!".format(name))
